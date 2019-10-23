@@ -5,4 +5,4 @@ This small script (written in Python3) searches for stuff you want to know in th
 
 It's coded for searching php?id Webpages.
 
-A FULL INSTALATION GUIDE WILL FOLLOW
+A FULL INSTALLATION GUIDE WILL FOLLOW
