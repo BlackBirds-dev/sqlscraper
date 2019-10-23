@@ -45,7 +45,7 @@ print(bcolors.FAIL + "(!)Also they don't take any responsibility for any missuse
 
 print("")
 print("")
-print("")
+
 
 
 
@@ -59,7 +59,7 @@ print("")
 
 print(bcolors.OKGREEN + "(INFO)Enter php?id inurl:http to mostly get http-Webpages responses" + bcolors.ENDC)
 
-print("")
+
 print("")
 print("")
 
