@@ -7,13 +7,22 @@ It's coded for searching php?id Webpages.
 
 INSTALLATION:
 
-git clone https://github.com/BlackBirds-dev/sqlscraper
 
-cd sqlscraper
 
-python3 BlackBirdsSQLScraper.py   
+>git clone https://github.com/BlackBirds-dev/sqlscraper
+
+
+>cd sqlscraper
+
+
+>python3 BlackBirdsSQLScraper.py   
+
+
+
 
 Now you should see something like this:
+
+
 
 (!)The Developer take no responsiblity for damage caused by this Program
 
@@ -43,6 +52,7 @@ Now you should see something like this:
 
 
 [Enter php?id to search for php?id Webpages across the Web]:
+
 
 
 USAGE:
